@@ -1,1 +1,1 @@
-### CLI tool for replace stdin and stdout in go program
+### CLI tool for run file tests.
